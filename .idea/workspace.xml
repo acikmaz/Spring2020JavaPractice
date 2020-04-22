@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41dd41b2-b10e-4c02-83aa-3cef1c54877e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="201" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Spring2020B18_Java" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Yto7ktlNE5TeLNwx9oDaqWPSmV" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.15944399" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Practice_03_18_2020" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ArraysUtility">
+    <configuration name="ArraysUtility" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OfficeHours.Practice_04_15_2020.ArraysUtility" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OfficeHours.Practice_04_15_2020.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForEachLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OfficeHours.Practice_04_15_2020.ForEachLoop" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OfficeHours.Practice_04_15_2020.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Multi_DimensionalArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OfficeHours.Practice_04_15_2020.Multi_DimensionalArrays" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OfficeHours.Practice_04_15_2020.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NestedLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OfficeHours.Practice_04_15_2020.NestedLoops" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OfficeHours.Practice_04_15_2020.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NestedLoops2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OfficeHours.Practice_04_15_2020.NestedLoops2" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OfficeHours.Practice_04_15_2020.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingleIf_Practice" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OfficeHours.Practice_03_18_2020.SingleIf_Practice" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OfficeHours.Practice_03_18_2020.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ternary_Practice" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day09_NestedIf_Ternary.Ternary_Practice" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day09_NestedIf_Ternary.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArraysUtility" />
+        <item itemvalue="Application.ForEachLoop" />
+        <item itemvalue="Application.Multi_DimensionalArrays" />
+        <item itemvalue="Application.NestedLoops" />
+        <item itemvalue="Application.NestedLoops2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41dd41b2-b10e-4c02-83aa-3cef1c54877e" name="Default Changelist" comment="" />
+      <created>1583771085984</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583771085984</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="458" y="211" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1585686965225">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="458" y="211" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1440.831@0.23.1440.831" timestamp="1585686965224" />
+    <state x="184" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585938214542">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="184" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.831@0.23.1440.831" timestamp="1585938214542" />
+    <state x="486" y="330" width="467" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1584992455591">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="486" y="330" width="467" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.831@0.23.1440.831" timestamp="1584992455591" />
+    <state width="1238" height="262" key="GridCell.Tab.0.bottom" timestamp="1587141857489">
+      <screen x="-1280" y="23" width="1280" height="1001" />
+    </state>
+    <state width="1398" height="187" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1585680181869">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1398" height="187" key="GridCell.Tab.0.bottom.inPresentationMode/0.23.1440.831@0.23.1440.831" timestamp="1585680181869" />
+    <state width="1238" height="262" key="GridCell.Tab.0.bottom/-1280.-15.1280.1001/0.23.1440.831@-1280.-15.1280.1001" timestamp="1587134186047" />
+    <state width="1238" height="262" key="GridCell.Tab.0.bottom/0.23.1440.831/-1280.-17.1280.1001@-1280.-17.1280.1001" timestamp="1587140195842" />
+    <state width="1238" height="262" key="GridCell.Tab.0.bottom/0.23.1440.831/-1280.23.1280.1001@-1280.23.1280.1001" timestamp="1587141857489" />
+    <state width="1238" height="262" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1587100628457" />
+    <state width="1238" height="262" key="GridCell.Tab.0.center" timestamp="1587141857488">
+      <screen x="-1280" y="23" width="1280" height="1001" />
+    </state>
+    <state width="1398" height="187" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1585680181868">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1398" height="187" key="GridCell.Tab.0.center.inPresentationMode/0.23.1440.831@0.23.1440.831" timestamp="1585680181868" />
+    <state width="1238" height="262" key="GridCell.Tab.0.center/-1280.-15.1280.1001/0.23.1440.831@-1280.-15.1280.1001" timestamp="1587134186046" />
+    <state width="1238" height="262" key="GridCell.Tab.0.center/0.23.1440.831/-1280.-17.1280.1001@-1280.-17.1280.1001" timestamp="1587140195841" />
+    <state width="1238" height="262" key="GridCell.Tab.0.center/0.23.1440.831/-1280.23.1280.1001@-1280.23.1280.1001" timestamp="1587141857488" />
+    <state width="1238" height="262" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1587100628456" />
+    <state width="1238" height="262" key="GridCell.Tab.0.left" timestamp="1587141857488">
+      <screen x="-1280" y="23" width="1280" height="1001" />
+    </state>
+    <state width="1398" height="187" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1585680181867">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1398" height="187" key="GridCell.Tab.0.left.inPresentationMode/0.23.1440.831@0.23.1440.831" timestamp="1585680181867" />
+    <state width="1238" height="262" key="GridCell.Tab.0.left/-1280.-15.1280.1001/0.23.1440.831@-1280.-15.1280.1001" timestamp="1587134186045" />
+    <state width="1238" height="262" key="GridCell.Tab.0.left/0.23.1440.831/-1280.-17.1280.1001@-1280.-17.1280.1001" timestamp="1587140195840" />
+    <state width="1238" height="262" key="GridCell.Tab.0.left/0.23.1440.831/-1280.23.1280.1001@-1280.23.1280.1001" timestamp="1587141857488" />
+    <state width="1238" height="262" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1587100628456" />
+    <state width="1238" height="262" key="GridCell.Tab.0.right" timestamp="1587141857489">
+      <screen x="-1280" y="23" width="1280" height="1001" />
+    </state>
+    <state width="1398" height="187" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1585680181868">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1398" height="187" key="GridCell.Tab.0.right.inPresentationMode/0.23.1440.831@0.23.1440.831" timestamp="1585680181868" />
+    <state width="1238" height="262" key="GridCell.Tab.0.right/-1280.-15.1280.1001/0.23.1440.831@-1280.-15.1280.1001" timestamp="1587134186046" />
+    <state width="1238" height="262" key="GridCell.Tab.0.right/0.23.1440.831/-1280.-17.1280.1001@-1280.-17.1280.1001" timestamp="1587140195841" />
+    <state width="1238" height="262" key="GridCell.Tab.0.right/0.23.1440.831/-1280.23.1280.1001@-1280.23.1280.1001" timestamp="1587141857489" />
+    <state width="1238" height="262" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1587100628457" />
+    <state width="1398" height="267" key="GridCell.Tab.1.bottom" timestamp="1586897438035">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1398" height="267" key="GridCell.Tab.1.bottom/0.23.1440.831@0.23.1440.831" timestamp="1586897438035" />
+    <state width="1398" height="267" key="GridCell.Tab.1.center" timestamp="1586897438035">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1398" height="267" key="GridCell.Tab.1.center/0.23.1440.831@0.23.1440.831" timestamp="1586897438035" />
+    <state width="1398" height="267" key="GridCell.Tab.1.left" timestamp="1586897438035">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1398" height="267" key="GridCell.Tab.1.left/0.23.1440.831@0.23.1440.831" timestamp="1586897438035" />
+    <state width="1398" height="267" key="GridCell.Tab.1.right" timestamp="1586897438035">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1398" height="267" key="GridCell.Tab.1.right/0.23.1440.831@0.23.1440.831" timestamp="1586897438035" />
+    <state x="0" y="23" width="1440" height="831" key="SettingsEditor" timestamp="1585680294315">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="0" y="23" width="1440" height="831" key="SettingsEditor/0.23.1440.831@0.23.1440.831" timestamp="1585680294315" />
+    <state x="397" y="271" key="com.intellij.ide.util.TipDialog" timestamp="1583771098396">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="397" y="271" key="com.intellij.ide.util.TipDialog/0.23.1440.831@0.23.1440.831" timestamp="1583771098396" />
+    <state x="-1031" y="73" width="782" height="825" key="find.popup" timestamp="1587132509638">
+      <screen x="-1280" y="-15" width="1280" height="1001" />
+    </state>
+    <state x="-1031" y="73" width="782" height="825" key="find.popup/-1280.-15.1280.1001/0.23.1440.831@-1280.-15.1280.1001" timestamp="1587132509638" />
+    <state x="-1031" y="111" width="782" height="825" key="find.popup/0.23.1440.831/-1280.23.1280.1001@-1280.23.1280.1001" timestamp="1587059039002" />
+    <state x="385" y="178" width="670" height="676" key="search.everywhere.popup" timestamp="1587056703988">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="385" y="178" width="670" height="676" key="search.everywhere.popup/0.23.1440.831@0.23.1440.831" timestamp="1587056703988" />
+    <state x="450" y="357" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1584469030446">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="450" y="357" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1440.831@0.23.1440.831" timestamp="1584469030446" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day22_Arrays_Loops/EvenNumbers.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Spring2020B18_Java$HelloWorld.ic" NAME="HelloWorld Coverage Results" MODIFIED="1583780616230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>day01_FirstProgramming.*</FILTER>
+    </SUITE>
+  </component>
+</project>
