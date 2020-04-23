@@ -93,4 +93,20 @@ public class Library {
 
         return count;
     }
+
+    public static String uniques(String str){ // "AABCDCD"
+        String result = ""; //ACD
+        for(int i=0; i < str.length(); i++){
+            int num = Frequency(str, str.charAt(i) );
+            if( num == 1){
+                result += str.charAt(i);
+            }
+        }
+
+        return result;
+    }
+
+
+
+
 }
