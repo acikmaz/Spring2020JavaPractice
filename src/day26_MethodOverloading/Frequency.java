@@ -29,11 +29,11 @@ public class Frequency {
 
         String str2 = "ABCDEFGABABABABABA";
         char ch2 = 'B';
-        int num2 = frequency(str2, ch2);
+        int num2 = Frequency(str2, ch2);
         System.out.println(num2);
     }
 
-    public static int frequency(String str, char ch){
+    public static int Frequency(String str, char ch){
         char[] arr = str.toCharArray();
 
         int count = 0;
