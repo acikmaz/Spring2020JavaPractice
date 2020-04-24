@@ -7,7 +7,7 @@ import javax.crypto.spec.PSource;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 
-public class DAtes_Formatting {
+public class Dates_Formatting {
 
     public static void main(String[] args) {
 
