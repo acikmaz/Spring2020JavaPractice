@@ -1,5 +1,7 @@
 package day29_Wrapper_ArrayList;
 
+import Resources.Library;
+
 import java.util.ArrayList;
 
 public class List_Practice2 {
@@ -48,6 +50,37 @@ public class List_Practice2 {
 
         System.out.println(maximum2);
 
+                        ArrayList<Integer> list2 = new ArrayList<>();
+                        list2.add(100);
+                        list2.add(200);
+                        list2.add(300);
+
+                        int result = max(list2);
+
+        System.out.println(result);
+
+                        int maximum3 = Library.max(list2);
+
+        System.out.println(maximum3);
+
+
     }
+
+    // create a method named max and moved to library
+
+    public static int max(ArrayList<Integer> list){
+        int maximum = Integer.MIN_VALUE;
+
+        for (int i = 0; i < list.size(); i++){
+            if (list.get(i) > maximum){
+                maximum = list.get(i);
+            }
+        }
+
+        return maximum;
+
+    }
+
+
 
 }
