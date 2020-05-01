@@ -26,5 +26,30 @@ public class CollectionsMethod {
                     output: 2
          */
 
+
+        System.out.println("==============================");
+        ArrayList<Integer> numbers = new ArrayList<>(Arrays.asList(1,1,2,3,4,4));
+
+        Integer maxNum = Collections.max(numbers);
+
+        numbers.removeAll(Arrays.asList(maxNum));
+        System.out.println(numbers);
+
+        int secondMax = Collections.max(numbers);
+
+        System.out.println(secondMax);
+
+        System.out.println("================================");
+
+        ArrayList<Integer> list2 = new ArrayList<>(Arrays.asList(1,1,2,3,4,5,6,7,8));
+
+        Integer minNum = Collections.min(list2);
+
+        list2.removeAll(Arrays.asList(minNum));
+        System.out.println(list2);
+
+        int secondMin = Collections.min(list2);
+        System.out.println(secondMin);
+
     }
 }
