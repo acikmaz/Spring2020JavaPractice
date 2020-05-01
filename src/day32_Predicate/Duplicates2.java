@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 
-public class Duplciates2 {
+public class Duplicates2 {
     public static void main(String[] args) {
         ArrayList<String> list = new ArrayList<>();
         list.addAll(Arrays.asList("A", "B", "A", "C", "D", "D"));
