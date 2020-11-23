@@ -8,7 +8,7 @@ public class DivideTwoNumbers {
 
     public static void main(String[] args) {
      int a = 16;
-     int b = 0;
+     int b = 3;
 
      if (b == 0){
          System.out.println("b cannot be zero");

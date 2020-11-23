@@ -7,7 +7,7 @@ public class LeapYear {
 
        boolean leapYear = year % 4 == 0 ; //if year can be divided by 4 without any reminder, then it's leap year
 
-        System.out.println(year + "2020 is leap year: " + leapYear );
+        System.out.println(year + " is leap year: " + leapYear );
 
 
     }

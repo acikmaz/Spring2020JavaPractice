@@ -11,7 +11,7 @@ public class Arrays_Practice2 {
         System.out.println(arr2[0]);
         System.out.println(arr2[1]);
 
-        String[] Testers = new String[3]; // {"Reem", "Madina", "Osman"};
+        String[] Testers = new String[4]; // {"Reem", "Madina", "Osman"};
         Testers[0] = "Reem";
         Testers[1] = "Madina";
         Testers[2] = "Osman";
@@ -20,6 +20,7 @@ public class Arrays_Practice2 {
         System.out.println(Testers[0]);
         System.out.println(Testers[1]);
         System.out.println(Testers[2]);
+        System.out.println(Testers[3]);
 
 
 

@@ -25,7 +25,7 @@ public class Frequencies {
 
             int count = 0;
             for (int i = 0; i <= str.length()-1; i++){
-                if (str.charAt(j) == str.charAt(i)){
+                if (nonDup.charAt(j) == str.charAt(i)){
                     count++;
                 }
             }

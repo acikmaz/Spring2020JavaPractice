@@ -58,9 +58,10 @@ public class variablesContinue {
 
         byte b1 = 'z';
 
-        //shirt s1 = a1; // char is larger than short
+        //short s1 = a1; // char is larger than short
         int i1 = a1; // int is larger than char
 
+        System.out.println(i1);
 
 
 

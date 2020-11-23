@@ -20,9 +20,9 @@ public class StringMethods {
         Arrays.sort(ch1); // [ , C, S, b, c, e, e, h, k, l, o, o, r, t, y]
         Arrays.sort(ch2); // [ , C, S, b, c, e, e, h, k, l, o, o, r, t, y]
 
-    boolean euqalStr = Arrays.equals(ch1, ch2);
+    boolean equalStr = Arrays.equals(ch1, ch2);
 
-        System.out.println(euqalStr); // str1 & str2 are biuld out of same characters
+        System.out.println(equalStr); // str1 & str2 are build out of same characters
 
 
     }

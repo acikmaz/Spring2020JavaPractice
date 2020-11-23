@@ -16,8 +16,6 @@ public class do_While_Practice {
 
         }while (num <= 100);
 
-        System.out.println();
-
         System.out.println("================================");
 
         int i = 1;

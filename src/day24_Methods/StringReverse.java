@@ -8,6 +8,8 @@ public class StringReverse {
 
         System.out.println(name);
 
+        Reverse("ALI");
+
     }
 
 

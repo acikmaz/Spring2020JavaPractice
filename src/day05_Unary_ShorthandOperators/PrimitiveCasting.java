@@ -73,7 +73,7 @@ public class PrimitiveCasting {
         System.out.println(dbl1);
 
         int z1 = 10;
-        double t1b = z1; // 10.0  //automaticall done as implicit
+        double t1b = z1; // 10.0  //automatically done as implicit
 
         short y1 = (short) z1;   // requires explicit casting
 

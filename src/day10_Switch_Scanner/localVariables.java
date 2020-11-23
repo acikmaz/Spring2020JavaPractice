@@ -19,7 +19,7 @@ public class localVariables {
                     break;
 
                 case 2:
-                    // System.out.println(c); the local var c belongs to the case block 1
+                    //System.out.println(c); // the local var c belongs to the case block 1
             }
 
 

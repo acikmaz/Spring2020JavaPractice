@@ -18,7 +18,7 @@ public class Calculator {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        for(int i= 0; true ; ) {  // infinite loop  ,  opening culry brace of loop
+        for(int i= 0; true ; ) {  // infinite loop  ,  opening curly brace of loop
 
             System.out.println("Enter first number");
             int num1 = input.nextInt();

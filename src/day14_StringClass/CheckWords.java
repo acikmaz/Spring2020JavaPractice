@@ -26,14 +26,14 @@ public class CheckWords {
         String word3 = input.next();
 
         int length1 = word1.length();
-        int lenght2 = word2.length();
+        int length2 = word2.length();
         int length3 = word3.length();
 
-        boolean allNotSame = length1 != lenght2 && lenght2 != length3 && length1 != length3;
+        boolean allNotSame = length1 != length2 && length2 != length3 && length1 != length3;
 
         // none of them are same with each other
 
-        if (length1 == lenght2 && lenght2 == length3 ){
+        if (length1 == length2 && length2 == length3 ){
             System.out.println("All words are same length");
         } else if ( allNotSame ){
             System.out.println("All different length");
